@@ -1,9 +1,10 @@
 # Release Notes
 
-## Version 0.0.2 (Build 2)
+## Version 0.0.2 (Build 3)
 **Release Date:** January 4, 2026
 
 ### Key Highlights
+- **Play Store Compliance**: Removed Advertising ID permission to comply with Google Play policies.
 - **Security Hardening**: Implemented database encryption, biometric authentication, and code obfuscation (ProGuard) for enhanced security.
 - **Dashboard Improvements**: Fixed critical issues with dashboard data refreshing. The dashboard now updates instantly when you edit or delete transactions.
 - **Improved Stability**: Addressed multiple crash scenarios in Chat, Subscription, and Analytics modules.
